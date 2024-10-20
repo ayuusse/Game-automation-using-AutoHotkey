@@ -3,5 +3,3 @@
 
 ## Welcome
 If you are reading this then that means you want to make games play by themselves
-
-Test
