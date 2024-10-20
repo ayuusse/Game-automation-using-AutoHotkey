@@ -17,10 +17,9 @@ AutoHotkey is scripting language to help you automate mundane tasks on your pc. 
 
 # Prerequisites
 ### **Must Have**
-* **AutoHotkey:** Its kind of obvious but you will need AutoHotkey for this, we will be using AutoHotkey v2 which you can download [here](https://www.autohotkey.com/v2/).
-Follow the Installation instructions its not very complicatied. 
+* **AutoHotkey[[Link]](https://www.autohotkey.com/v2/):** Its kind of obvious but you will need AutoHotkey for this, we will be using AutoHotkey v2 as there is no point in learning v1. Follow the Installation instructions its not very complicatied. 
 
-* **VS code:** Since we are writing a programme its recommended to use some kind of IDE, I personally use VS code with the following extensions.
+* **VS code[[Link]](https://code.visualstudio.com/download):** Since we are writing a programme its recommended to use some kind of IDE, I personally use VS code with the following extensions.
 
 | Extensions    | Link   |
 | ----------    | ----   |
@@ -70,3 +69,4 @@ Its best to show how this works using an example.
         
     2. Now Run the file.
     3. You will notice that nothing has happened
+
