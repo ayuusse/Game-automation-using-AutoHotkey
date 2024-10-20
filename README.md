@@ -17,15 +17,22 @@ AutoHotkey is scripting language to help you automate mundane tasks on your pc. 
 > _Disclaimer_
 ## Prerequisites
 ### **Must Have**
-Its kind of obvious but you will need AutoHotkey for this, we will be using AutoHotkey v2 which you can download [here](https://www.autohotkey.com/v2/).
+* **AutoHotkey:** Its kind of obvious but you will need AutoHotkey for this, we will be using AutoHotkey v2 which you can download [here](https://www.autohotkey.com/v2/).
 Follow the Installation instructions its not very complicatied. 
-### **Optional (but highly RECOMENDED)**
-Below are some optional things but its not really necessary.
+
 * **VS code:** Since we are writing a programme its recommended to use some kind of IDE, I personally use VS code with the following extensions.
+
 | Extensions    | Link   |
 | ----------    | ----   |
-| AHK++ (AutoHotkey Plus Plus)    | [Link](https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus)   |
-| AutoHotkey v2 Language Support    | [Link](https://marketplace.visualstudio.com/items?itemName=thqby.vscode-autohotkey2-lsp)   |
+| AHK++ (AutoHotkey Plus Plus)    | [link](https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus)   |
+| AutoHotkey v2 Language Support    | [link](https://marketplace.visualstudio.com/items?itemName=thqby.vscode-autohotkey2-lsp)   |
+
+### **Optional (but recomended)**
+
+* **Roblox:** I know it’s kind of odd but it’s a convenient way for me to share a place where you can test out your code.
 ## Basics
+1. Start by creating a folder where you would like to store these Files.
+2. Open the folder using VS code.
+
 ## Useful Syntax to know
 ## First Script
