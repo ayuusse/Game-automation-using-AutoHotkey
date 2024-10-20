@@ -38,17 +38,17 @@ AutoHotkey is scripting language to help you automate mundane tasks on your pc. 
 1. Start by creating a folder where you would like to store these Files.<br>
 2. Open the folder using VS code.
 
-   ![Logo](Images\Open_Folder_VScode.png)
+   ![Logo](Images/Open_Folder_VScode.png)
 
 3. Create a new File but **MAKE SURE IT ENDS WITH ``.ahk ``**
 
-    ![Logo](Images\MakeFile.png)
+    ![Logo](Images/MakeFile.png)
 
 4. Great you just created your first AutoHotkey file.
 
 5. If you want to run your AutoHotkey file then just **Right Click**, then click **Run ahk file**.  
 
-      ![Logo](Images\RunFile.png)
+      ![Logo](Images/RunFile.png)
 
 6. Now if you look at the hidden icons at the bottom of your screen you will see that a AutoHotkey icon. This means that your AutoHotkey file is running.
  ### Important Things to Know
@@ -58,15 +58,18 @@ AutoHotkey is scripting language to help you automate mundane tasks on your pc. 
 * MsgBox [[Link]](https://www.autohotkey.com/docs/v2/lib/MsgBox.htm):
 Like the name suggests its a handy little thing to display a Message on your screen. When used it will pop up with a window containing your Message.
 
-    ![Logo](Images\MsgBox_example.png)
+    ![Logo](Images/MsgBox_example.png)
 
 * Hotkeys [[Link]](https://www.autohotkey.com/docs/v2/Hotkeys.htm):
 Its best to show how this works using an example.
 
     1. Open your `.ahk` file you created and write the following things
         
-        ![Logo](Images\Hello_World.png)
+        ![Logo](Images/Hello_World.png)
         
     2. Now Run the file.
     3. You will notice that nothing has happened
+<<<<<<< HEAD
 
+=======
+>>>>>>> dd2ca0b57bca87f1007cc86e667d710b7f0a1e70
