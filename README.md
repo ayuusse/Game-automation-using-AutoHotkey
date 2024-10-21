@@ -51,7 +51,6 @@ AutoHotkey is scripting language to help you automate mundane tasks on your pc. 
 If you want to run your AutoHotkey file then just **Right Click**, then click **AutoHotkey v2**, then **Run ahk file**.  
 
 
-
  Now if you look at the hidden icons at the bottom of your screen you will see that a AutoHotkey icon. This means that your AutoHotkey file is running.
 
  ### Important Things to Know
