@@ -34,7 +34,7 @@ AutoHotkey is scripting language to help you automate mundane tasks on your pc. 
 &nbsp;
 
 # Basics
-### Making the file
+## Making the file
 1. Start by creating a folder where you would like to store these Files.<br>
 2. Open the folder using VS code.
 
@@ -46,14 +46,19 @@ AutoHotkey is scripting language to help you automate mundane tasks on your pc. 
 
 4. Great you just created your first AutoHotkey file.
 
-### Running the file
+
+## Running the file
 
 If you want to run your AutoHotkey file then just **Right Click**, then click **AutoHotkey v2**, then **Run ahk file**.  
 
+![Logo](Images/RunAHKfile.png)
 
  Now if you look at the hidden icons at the bottom of your screen you will see that a AutoHotkey icon. This means that your AutoHotkey file is running.
+ ## Stopping the Script
 
- ### Important Things to Know
+If you want to stop your AutoHotkey Script then just **Right Click** on the icon at the bottom right, then **Right Click**, then click **Exit**.  
+
+ # Important Things to Know
 
 **The following things will be used alot, and is very useful and important to know about when writing a AutoHotkey Script.**
 
@@ -72,4 +77,4 @@ Its best to show how this works using an example.
     2. Now Run the file.
     3. You will notice that nothing has happened
 
-    exit code runnning
+ 
