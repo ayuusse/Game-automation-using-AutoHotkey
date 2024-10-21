@@ -46,11 +46,14 @@ AutoHotkey is scripting language to help you automate mundane tasks on your pc. 
 
 4. Great you just created your first AutoHotkey file.
 
-5. If you want to run your AutoHotkey file then just **Right Click**, then click **Run ahk file**.  
+### Running the file
 
-      ![Logo](Images/RunFile.png)
+If you want to run your AutoHotkey file then just **Right Click**, then click **AutoHotkey v2**, then **Run ahk file**.  
 
-6. Now if you look at the hidden icons at the bottom of your screen you will see that a AutoHotkey icon. This means that your AutoHotkey file is running.
+
+
+ Now if you look at the hidden icons at the bottom of your screen you will see that a AutoHotkey icon. This means that your AutoHotkey file is running.
+
  ### Important Things to Know
 
 **The following things will be used alot, and is very useful and important to know about when writing a AutoHotkey Script.**
@@ -69,7 +72,5 @@ Its best to show how this works using an example.
         
     2. Now Run the file.
     3. You will notice that nothing has happened
-<<<<<<< HEAD
 
-=======
->>>>>>> dd2ca0b57bca87f1007cc86e667d710b7f0a1e70
+    exit code runnning
