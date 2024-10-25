@@ -129,3 +129,5 @@ Now the most important thing that you will be using the most.
 
 * MouseGetPos [[Link]](https://www.autohotkey.com/docs/v2/lib/MouseGetPos.htm): It returns the current position of your mouse.
 
+
+local, global,mouse move,fns,mouse click
