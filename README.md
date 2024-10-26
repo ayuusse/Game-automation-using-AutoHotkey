@@ -11,6 +11,7 @@ AutoHotkey is scripting language to help you automate mundane tasks on your pc. 
 * [Disclaimer](#Disclaimer) 
 * [Prerequisites](#Prerequisites) 
 * [Basics](#Basics) 
+* [Important Things to Know](#Important_Things_to_Know)
 
 # Disclaimer
 > _Disclaimer_
@@ -116,6 +117,18 @@ Now the most important thing that you will be using the most.
     5. Pressing `s` will press the k key for 1 sec then release it.
 
     This is a table of Key names [[Link]](https://www.autohotkey.com/docs/v2/lib/Send.htm#keynames).
+* Functions/Methods [[Link]](https://www.autohotkey.com/docs/v2/Variables.htm): Both function and method means the same thing,it is a reusable block of code that can be executed by calling it.
+
+    ![Logo](Images/fns_1.png)
+
+    Now pressing `q` or `w` will call the same method.
+
+    * Parameters [[Link]](https://www.autohotkey.com/docs/v2/Functions.htm#param): when calling a function you can add certain Parameters to it.
+
+        ![Logo](Images/fns_2.png)
+    
+        Now pressing `q` will show a MsgBox with message **"The sum of the two numbers is 5"**  and pressing `w` will show a MsgBox with message **"The sum of the two numbers is 40"**
+
 
 * Variables [[Link]](https://www.autohotkey.com/docs/v2/Variables.htm): In simple terms it's a plce to hold some value.
     ``` Python
@@ -127,7 +140,29 @@ Now the most important thing that you will be using the most.
 
     Running the script shows a MsgBox with message **"My name is Ayuusse"** and after closing it the second MsgBox will contain the message **"The first number is 2 and the second number is 3 and their sum is 5"**.
 
-* MouseGetPos [[Link]](https://www.autohotkey.com/docs/v2/lib/MouseGetPos.htm): It returns the current position of your mouse.
+    * Local Variables [[Link]](https://www.autohotkey.com/docs/v2/Functions.htm#Local): These are varibles that are only accessable/visible in the function they are defined in.
 
+         ![Logo](Images/Local_Var.png)
 
-local, global,mouse move,fns,mouse click
+        The above Script will show an error **"Warning: This local variable appears to never be assigned a value."**
+        As the variable `x` is only accessable in the method of **q** but not in the method of **w**.
+
+     * Global Variables [[Link]](https://www.autohotkey.com/docs/v2/Functions.htm#Global): There are Global Variables, which you can read about from the link.
+
+* MouseGetPos [[Link]](https://www.autohotkey.com/docs/v2/lib/MouseGetPos.htm): It is used to find the current position of your mouse in your active screen.
+
+    ![Logo](Images/Mouse_getPos.png)
+
+    Now whenever you press `q` a MsgBox will appear with the current position of your mouse.
+
+* MouseMove [[Link]](https://www.autohotkey.com/docs/v2/lib/MouseMove.htm): It moves your mouse to the specified coordinates of your active screen.
+
+    ![Logo](Images/Mouse_Move.png)
+
+    Now whenever you press `q` your Mouse will move to the specified coordinates, here it is `300,300`.
+
+* Click [[Link]](https://www.autohotkey.com/docs/v2/lib/Click.htm): It is used to click your mouse at the specified coordinates.
+
+    ![Logo](Images/Click.png)
+
+    Now whenever you press `q` your Mouse will move to `300,300` and then **Left Click**, and when you press `w` your Mouse will move to `500,500` and **Right Click**.
