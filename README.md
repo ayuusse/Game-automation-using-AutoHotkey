@@ -1,3 +1,8 @@
+# PLEASE NOTE THAT THIS IS STILL BEING WORKED ON
+But feel free to look through the files and give feed back.
+
+---
+
 # Game automation using AutoHotkey
 *A guide to help you make games play by themself.*
 
@@ -6,13 +11,13 @@ AutoHotkey is scripting language to help you automate mundane tasks on your pc. 
 
 * **What you'll learn:** Use AutoHotkey to make games play by themselves.
 * **How long:** You can read all of this in under 30 min, and I can guarantee that you will not be disappointed.
- ---
+ 
 # Quick Reference
 
 * [Disclaimer](#Disclaimer) 
 
 * [Prerequisites](#Prerequisites)
----
+
 # Disclaimer
 > _The information provided is intended solely for educational and informational purposes. While AutoHotkey can simulate user actions effectively, making it difficult to detect, please note that game automation may violate the terms of service of certain games and platforms, potentially leading to account suspension or banning. Users are fully responsible for ensuring that their actions comply with the rules and policies of the games or services they interact with._
 
@@ -35,16 +40,22 @@ AutoHotkey is scripting language to help you automate mundane tasks on your pc. 
 * **Prior Programming Knowledge:** If you know even a little about programming this course will be much easier for you to digest but if you don't, worry not as this course is very easy.  
 
 ---
+[Basics](https://github.com/ayuusse/Game-automation-using-AutoHotkey/blob/main/Basics.md)
+
+[Basic Syntax](https://github.com/ayuusse/Game-automation-using-AutoHotkey/blob/main/Basic_Syntax.md)
 
  # Things to do
-    bug at Imp things to do
+    bug:
+    quick reference not working in Important Things to Know
 
-    loops
-    single instance
+    dont forget to add:
+    while loop in Important Things to Know
+    single instance in Important Things to Know
 
+    game ideas:
     loop play a key
-    moveing in a same maze
+    movement in a same maze
     pixel detection click
-    moving with changed pixel
+    moving with coloured pixel
     optimised pixel detection
-    pixel range optimisation
+    pixel range with optimisation
