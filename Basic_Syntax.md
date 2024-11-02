@@ -1,20 +1,20 @@
-# Important Things to Know
+# Basic Syntax
 **The following things will be used alot, and is very useful and important to know about when writing a AutoHotkey Script.**
 
 ---
 ## Quick Reference
-* [MsgBox](#1.-MsgBox)
-* [Hotkeys](#2.-Hotkeys)
-* [Sleep](#3.-Sleep)
-* [Send](#4.-Send)
-* [Functions/Methods](#5.-Functions/Methods)
-* [Variables](#6.-Variables)
-* [MouseGetPos](#7.-MouseGetPos)
-* [MouseMove](#8.-MouseMove)
-* [Click](#9.-Click)
-* [ToolTip](#10.-ToolTip)
-* [Loop](#11.-Loop)
-* [While loop](#12.-While-loop)
+* [MsgBox](#1.-MsgBox-link)
+* [Hotkeys](#2.-Hotkeys-link)
+* [Sleep](#3.-Sleep-link)
+* [Send](#4.-Send-link)
+* [Functions/Methods](#5.-Functions/Methods-link)
+* [Variables](#6.-Variables-link)
+* [MouseGetPos](#7.-MouseGetPos-link)
+* [MouseMove](#8.-MouseMove-link)
+* [Click](#9.-Click-link)
+* [ToolTip](#10.-ToolTip-link)
+* [Loop](#11.-Loop-link)
+* [While loop](#12.-While-loop-link)
 
 ----
 
