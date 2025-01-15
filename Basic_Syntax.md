@@ -3,18 +3,18 @@
 
 ---
 ## Quick Reference
-* [MsgBox](#1.-MsgBox-link)
-* [Hotkeys](#2.-Hotkeys-link)
-* [Sleep](#3.-Sleep-link)
-* [Send](#4.-Send-link)
-* [Functions/Methods](#5.-Functions/Methods-link)
-* [Variables](#6.-Variables-link)
-* [MouseGetPos](#7.-MouseGetPos-link)
-* [MouseMove](#8.-MouseMove-link)
-* [Click](#9.-Click-link)
-* [ToolTip](#10.-ToolTip-link)
-* [Loop](#11.-Loop-link)
-* [While loop](#12.-While-loop-link)
+* [MsgBox](#1-msgbox-link)
+* [Hotkeys](#2-hotkeys-link)
+* [Sleep](#3-sleep-link)
+* [Send](#4-send-link)
+* [Functions/Methods](#5-functions/methods-link)
+* [Variables](#6-variables-link)
+* [MouseGetPos](#7-mousegetpos-link)
+* [MouseMove](#8-mousemove-link)
+* [Click](#9-click-link)
+* [ToolTip](#10-tooltip-link)
+* [Loop](#11-loop-link)
+* [While loop](#12-while-loop-link)
 
 ----
 

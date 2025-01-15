@@ -1,5 +1,4 @@
-# PLEASE NOTE THAT THIS IS STILL BEING WORKED ON
-But feel free to look through the files and give feed back.
+> PLEASE NOTE THAT THIS IS STILL BEING WORKED ON But feel free to look through the files and give feed back.
 
 ---
 
@@ -40,11 +39,20 @@ AutoHotkey is scripting language to help you automate mundane tasks on your pc. 
 * **Prior Programming Knowledge:** If you know even a little about programming this course will be much easier for you to digest but if you don't, worry not as this course is very easy.  
 
 ---
-[Basics](https://github.com/ayuusse/Game-automation-using-AutoHotkey/blob/main/Basics.md)
 
-[Basic Syntax](https://github.com/ayuusse/Game-automation-using-AutoHotkey/blob/main/Basic_Syntax.md)
+# Get Started 
 
- # Things to do
+# Basics [[Link]](https://github.com/ayuusse/Game-automation-using-AutoHotkey/blob/main/Basics.md):
+These are the things you should know before getting into scripting using AutoHotkey.
+
+# Basic Syntax [[Link]](https://github.com/ayuusse/Game-automation-using-AutoHotkey/blob/main/Basic_Syntax.md):
+The Basic Syntax, which simply means the set of rules that define how to structure code in a programming language.
+
+---
+
+<!-- 
+# Please Ignore 
+### Things to do
     bug:
     quick reference not working in Important Things to Know
 
@@ -58,4 +66,4 @@ AutoHotkey is scripting language to help you automate mundane tasks on your pc. 
     pixel detection click
     moving with coloured pixel
     optimised pixel detection
-    pixel range with optimisation
+    pixel range with optimisation -->
